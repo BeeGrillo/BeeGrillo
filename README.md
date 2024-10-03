@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Project Management
 - 💞️ I’m looking to collaborate on Any kind of project
-- 📫 How to reach me Through my email beegrilloceliasilva@gmail.com or [https://www.linkedin.com/in/beatriz-grillo-celia-silva-59610930a/]
+- 📫 How to reach me Through my email beegrilloceliasilva@gmail.com or [https://www.linkedin.com/in/beatriz-grillo-celia-silva-6807466/]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to teach as much as I enjoy learning!
 
