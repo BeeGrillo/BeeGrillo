@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @BeeGrillo
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Project Management
-- 💞️ I’m looking to collaborate on Any kind of project
-- 📫 How to reach me Through my email beegrilloceliasilva@gmail.com or [https://www.linkedin.com/in/beatriz-grillo-celia-silva-6807466/]
-- 😄 Pronouns: she/her
+- 👋 Hi, I’m Beatriz
+Over 19 years of experience working on various types of systems, from prototypes and MVPs to systems deployed in production, spanning monolithic architectures to cloud-deployed microservices using containerization strategies.
+
 - ⚡ Fun fact: I like to teach as much as I enjoy learning!
 
 <!---
